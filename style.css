@@ -1,0 +1,15 @@
+/* .warning  */
+body {
+  background-image: linear-gradient(red, white);
+}
+.warning {
+  color: orange;
+}
+
+.normal {
+  color: green;
+}
+
+.danger {
+  color: red;
+}
